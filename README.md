@@ -1,6 +1,6 @@
 # 🚀 L2 Arena backend
 
-Este projeto é o frontend oficial do **L2 Arena**, desenvolvido em **Nuxt 3**, utilizando TailwindCSS, Strapi, Pinia, Turnstile, Meta Pixel e diversas integrações essenciais para alto desempenho e SEO.
+Este projeto é o backend de suporte para o Frontend do **L2 Arena**, desenvolvido em **NodeJS 22**, utilizando Express, Hash Wasm, Zod.
 
 ---
 
